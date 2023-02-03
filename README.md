@@ -1,6 +1,6 @@
-# design-patterns
+# 设计模式
 
-Design pattern concepts and implementation in Javascript
+设计模式的意图与应用场景说明，并提供基于Javascript的Demo实现
 
 ## 创建型模式
 
